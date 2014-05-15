@@ -1,6 +1,0 @@
-PERL=perl
-SCRIPT=Sent1.pl
-INPUTFILE=327-01.xml
-
-all:
-	$(PERL) $(SCRIPT) $(INPUTFILE)
