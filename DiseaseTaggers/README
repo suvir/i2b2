@@ -12,3 +12,8 @@ This can done as follows :
 2. pip install ipython
 
 *CRF++ properly installed. Binaries crf_learn and crf_test should be available in the path.
+
+*HOW TO RUN:
+Near top of the code, change the two variables MODEL_DIR and DATA_DIR
+DATA_DIR = Path of directory where all the unlabeled files are stored.
+MODEL_DIR = Path of directory where you extracted all the trained CRF models.
