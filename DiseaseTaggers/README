@@ -1,0 +1,14 @@
+Dependancies:
+
+*Any UNIX OS. No Windows please.
+
+*Python 2.7.x
+Libraries-
+NLTK
+ipython
+
+This can done as follows :
+1. pip install nltk
+2. pip install ipython
+
+*CRF++ properly installed. Binaries crf_learn and crf_test should be available in the path.
